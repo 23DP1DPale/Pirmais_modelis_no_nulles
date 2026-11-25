@@ -1,0 +1,1 @@
+# Pirmais_modelis_no_nulles
