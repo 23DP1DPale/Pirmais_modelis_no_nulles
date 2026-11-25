@@ -1,0 +1,5 @@
+Datu kopas nosaukums: HCV Data
+Avots: UCI Machine Learning Repository
+Saite: https://archive.ics.uci.edu/dataset/571/hcv+data
+Lejupielādes datums: 25.11.2026.
+Licence: CC BY 4.0
